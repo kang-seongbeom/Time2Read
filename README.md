@@ -1,4 +1,4 @@
-#  <img src="./t2rImage/image.png"  width="30" height="30"/> TimeTo Read  
+#  <img src="./t2rImage/icon.png"  width="30" height="30"/> TimeTo Read  
 > Samsung Software Academy For Youth 10기  
 > 도메인 : 빅데이터 - 분산  
 > 개발 기간 : 2024.02.19 ~ 2024.04.04
